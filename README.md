@@ -1,3 +1,3 @@
 # Pictures
 Used for storing pictures.*----*
-xyy
+xyy xxy2
