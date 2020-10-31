@@ -1,2 +1,2 @@
 # Pictures
-Used for storing pictures.*-*
+Used for storing pictures.*----*
