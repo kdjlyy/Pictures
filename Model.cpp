@@ -15,12 +15,7 @@ void PRINT(vector<int>& v) {
     cout << endl;
 }
 
-
+//modify
 int main() {
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-    ios
-/////////////////////
-
     return 0;
 }
